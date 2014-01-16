@@ -11,7 +11,7 @@ Requires(postun): /sbin/ldconfig
 BuildRequires:  gettext
 BuildRequires:  efl
 BuildRequires:  efl-devel
-BuildRequires:  app-svc-devel
+#BuildRequires:  app-svc-devel
 BuildRequires:  pkgconfig(x11)
 
 %description
