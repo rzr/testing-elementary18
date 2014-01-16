@@ -81,7 +81,6 @@ cp %{_builddir}/%{buildsubdir}/COPYING %{buildroot}/usr/share/license/%{name}
 %files tools
 %defattr(-,root,root,-)
 /usr/bin/elementary_*
-/usr/lib/elementary_testql.so
 /usr/bin/elm_*
 
 
